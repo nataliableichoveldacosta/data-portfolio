@@ -76,6 +76,6 @@ Status: Planned
 
 # Contact
 
-LinkedIn: (add your linkedin here)
+LinkedIn:https://www.linkedin.com/in/nataliableichovel/
 
 Location: Brazil

@@ -1,7 +1,7 @@
 # Data Portfolio — Natália Bleichovel
 
 Welcome to my data portfolio.  
-Here I document projects in Data Engineering, Data Science and Analytics.
+Here I document projects in Data Science.
 
 My focus areas include:
 
@@ -68,14 +68,12 @@ Status: Planned
 - MySQL
 - Python
 - Pandas
-- Scikit-learn
-- Power BI
 - Git & GitHub
 
 ---
 
 # Contact
 
-LinkedIn:https://www.linkedin.com/in/nataliableichovel/
+LinkedIn: https://www.linkedin.com/in/nataliableichovel/
 
 Location: Brazil
